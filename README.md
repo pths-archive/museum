@@ -1,4 +1,6 @@
-# Виртуальное ФТШ
+# Виртуальная ФТШ
+
+Здесь: [https://pths-archive.github.io/museum](https://pths-archive.github.io/museum/index.html)
 
 - подножие - А&Ю 
 - гардероб - Ира
