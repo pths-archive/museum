@@ -1,6 +1,6 @@
 # Виртуальная ФТШ
 
-Здесь: [https://pths-archive.github.io/museum](https://pths-archive.github.io/museum/index.html)
+Здесь: [https://pths-archive.github.io/museum](https://pths-archive.github.io/museum/index.html) _(прямо сейчас оно не работает, либо починится к концу дня, либо настроим это в другом месте)_
 
 - подножие - А&Ю 
 - гардероб - Ира
