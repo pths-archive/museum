@@ -9,8 +9,11 @@
 - около интерната - Илья (а также 3-й этаж)
 
 прогресс:
-- ворота школы,
-- корридор 2 этажа
+- [ворота школы](https://pths-archive.github.io/museum)
+- [корридор 2 этажа](https://pths-archive.github.io/museum/corridor_2.html)
+- [пивнушка](https://pths-archive.github.io/museum/deadend.html)
+- [за воротами](https://pths-archive.github.io/museum/over_gates.html) (добавить клумбу, деревья выпускников, железный городок)
+- [лестница](https://pths-archive.github.io/museum/underneathpencil.html)
 
 неплохо сделать:
 - раздевалку
@@ -22,4 +25,3 @@
 - пятый этаж (корридор, балкончик)
 
 - интернат (?)
-- окрестности школы (типо клумба, деревья выпускников, железный городок) (?)
