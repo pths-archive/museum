@@ -10,7 +10,7 @@
 
 прогресс:
 - [ворота школы](https://pths-archive.github.io/museum)
-- [корридор 2 этажа](https://pths-archive.github.io/museum/corridor_2.html)
+- [корридор 2 этажа](https://pths-archive.github.io/museum/2floor.html)
 - [пивнушка](https://pths-archive.github.io/museum/deadend.html)
 - [за воротами](https://pths-archive.github.io/museum/over_gates.html) (добавить клумбу, деревья выпускников, железный городок)
 - [лестница](https://pths-archive.github.io/museum/underneathpencil.html)
