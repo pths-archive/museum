@@ -14,10 +14,10 @@
 - [пивнушка](https://pths-archive.github.io/museum/deadend.html)
 - [за воротами](https://pths-archive.github.io/museum/over_gates.html) (добавить клумбу, деревья выпускников, железный городок)
 - [лестница](https://pths-archive.github.io/museum/underneathpencil.html)
+- [библиотека](https://pths-archive.github.io/museum/bibliotheka.html))
 
 неплохо сделать:
 - раздевалку
-- библиотеку 
 - спорткомлекс
 - третий этаж (корридор, кабинеты)
 - театральные залы (?) (идея - сделать в них ссылки на записи праздников)
