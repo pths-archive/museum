@@ -1,0 +1,26 @@
+<!doctype html>
+
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="./styles.css">
+</head>
+
+<body>
+<H1>Подножие карандаша</H1>
+
+<p>Направо пойдешь-в столовую попадешь</p>
+<p>Налево пойдешь-к шкафчикам придешь</p>
+<p>Наверх пойдешь-счастье потеряешь</p>
+
+<p>Вы можете пойти:</p>
+
+<ul>
+  <li> Направо, ко <a href="./over_gates.html">столовой</a> </li>
+  <li> Налево к <a href="./deadend.html">гардеробу</a> </li>
+  <li> Наверх на <a href="./deadend.html">второй этаж</a> </li>
+</ul>
+
+</body>
+</html>
