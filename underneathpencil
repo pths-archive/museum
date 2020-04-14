@@ -20,6 +20,8 @@
   <li> Направо, ко <a href="./over_gates.html">столовой</a> </li>
   <li> Налево к <a href="./deadend.html">гардеробу</a> </li>
   <li> Наверх на <a href="./corridor_2.html">второй этаж</a> </li> 
+  <li> Отступить к <a href="./over_gates.html">воротам</a> </li> 
+
 </ul>
 
 </body>
