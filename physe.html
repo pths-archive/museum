@@ -1,0 +1,28 @@
+<!doctype html>
+
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="./styles.css">
+</head>
+
+<body>
+<H1>Закуток</H1>
+
+<p id="netr" class="secret wow">Вы наткнулись на отличника, разговаривающего со своим воображаемым другом. Посоветовавшись они (он?) решили отдать Вам тетрадку<br>
+Зачем? Ну ладно пригодится</p>
+
+<p id="est-tetr" class="secret wow">Вам показалось. Галлюцинации? Стоит показаться врачу...</p>
+
+<p>Ладно, стоит <a href="./taina.html">возвращаться</a></p>
+
+<script>
+if (localStorage['tetrad'] == undefined) {
+    document.getElementById('net').style.display = 'block';
+     localStorage['tetrad'] = true;
+} else {
+    document.getElementById('est').style.display = 'block';
+}
+</body>
+</html>
