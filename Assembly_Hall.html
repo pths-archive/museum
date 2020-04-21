@@ -19,6 +19,11 @@
 <p id="open-Assembly_Hall" class="secret wow"> Но теперь у Анна Анатольевна открывает вам дверь в актовый зал и вы можете
 <a href="./Assembly_Hall_opened.html">пройти внутрь</p>
 
+<script>
+if (localStorage['Assembly_Hall-key'] != undefined) {
+    document.getElementById('open-Assembly_Hall').style.display = 'block';
+}
+</script>
  
 </body>
 </html>
