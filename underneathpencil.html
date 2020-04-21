@@ -15,6 +15,8 @@
 <p>Направо пойдешь-в столовую попадешь</p>
 <p>Налево пойдешь-к шкафчикам придешь</p>
 <p>Наверх пойдешь-счастье потеряешь</p>
+  
+<p id="cloths" class="secret wow">Перед входом в школу вы решаете снять с себя верхнюю одежду</p>
 
 <p>Вы можете пойти:</p>
 
@@ -25,6 +27,13 @@
   <li> Отступить к <a href="./over_gates.html">воротам</a> </li> 
 
 </ul>
+  
+  <script>
+if (localStorage['cloths'] == undefined) {
+    document.getElementById('cloths').style.display = 'block';
+    localStorage['cloths'] = true;
+}
+</script>
 
 </body>
 </html>
