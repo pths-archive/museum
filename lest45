@@ -1,0 +1,32 @@
+<!doctype html>
+
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="./styles.css">
+</head>
+
+<body>
+<H1>Дорога героев</H1>
+
+<p>Вы слышите какой-то рев впереди </p>
+
+<p id="net-tetr" class="secret wow"> У вас нет никакого оружия, вы точно хотите туда пойти?
+<br> Можно вернуться на <a href="./2floor.html">второй этаж</a> и найти хоть что-нибудь.</p>
+
+<p id="est-tetr" class="secret wow">В инвентаре только тетрадь отличника, мне кажется стоит <a href="./2floor.html">вернуться</a></p>
+
+<p>Но если хотите можно пойти <a href="./ploch5.html">дальше</a></p>
+
+<script>
+if (localStorage['tetrad'] != undefined) {
+    document.getElementById('net-tetr').style.display = 'block';
+} else {
+    document.getElementById('est-tetr').style.display = 'block';
+}
+</script>
+ 
+
+</body>
+</html>
