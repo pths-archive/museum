@@ -17,6 +17,12 @@
   <li> Назад <a href="./over_gates.html">на дорожку перед школой</a> </li>
 </ul>
 
+<script>
+if (localStorage['golden-key'] == undefined) {
+    document.getElementById('squirrel-key').style.display = 'block';
+    localStorage['golden-key'] = true;
+}
+</script>
 
 </body>
 </html>

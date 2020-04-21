@@ -11,9 +11,15 @@
 <p>Упс. Кажется, дверь закрыта. Ах да, ведь уже давно вирусный карантин...</p>
 
 <p id="open-door" class="secret wow">Однако у вас есть ключ найденный под ёлочкой!<br/>Вы открыли дверь и можете пройти
-  к <a href="./underneathpencil.html">подножию карандаша</a></p>!
+  к <a href="./underneathpencil.html">подножию карандаша</a>!</p>
 
 <p>Можно вернуться назад и поразмышлять <a href="./over_gates.html">на дорожке перед школой</a>.</p>
+
+<script>
+if (localStorage['golden-key'] != undefined) {
+    document.getElementById('open-door').style.display = 'block';
+}
+</script>
 
 </body>
 </html>
