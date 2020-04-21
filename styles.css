@@ -18,3 +18,11 @@ a:hover {
 li {
     display: block;
 }
+
+.secret {
+    display: none;
+}
+
+.wow {
+    color: #0cf;
+}
