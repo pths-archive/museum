@@ -1,0 +1,25 @@
+<!doctype html>
+
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="./styles.css">
+</head>
+
+<body>
+<H1>Не так быстро!</H1>
+
+<ul>
+  <li>Оказывается, что дверь в актовый зал закрыта. Вам больше ничего не остается делать
+  кроме как вернуться на <a href="./3floor.html"> 3 этаж<li>
+</ul>
+
+
+<p id="open-Assembly_Hall" class="secret wow"> Но теперь у Анна Анатольевна открывает вам дверь в актовый зал и вы можете
+<a href="./Assembly_Hall_opened.html">пройти внутрь</p>
+
+ 
+</body>
+</html>
+© 2020 GitHub, Inc.
