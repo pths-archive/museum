@@ -1,0 +1,20 @@
+< html >
+  < голова >
+    < meta  charset = " utf-8 " >
+    < link  rel = " stylesheet " type = " text / css " href = " ./styles.css " >
+  </ head >
+  < тело >
+< H1 > Пушкинский зал  </ H1>
+    
+< p >  На стенах висят мрачные картины с Пушкиным </ p>
+
+< p > У дальней стены стоит старое пианино </p>
+
+<p> вы можете пойти:
+
+<ul>
+  <li> назад <a href="./over_gates.html"> к пианино </ a> </ li>
+</ul>
+
+</ body >
+</ html >
