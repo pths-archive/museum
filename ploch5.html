@@ -1,0 +1,36 @@
+<!doctype html>
+
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="./styles.css">
+</head>
+
+<body>
+<H1>Лестничная площадка</H1>
+
+<H3>Пятый этаж</H3>
+
+<p>Вы поднимаетесь по лестнице, впереди слышится рык...<br>
+Но ни шагу назад<br>
+Перед вами предстает учитель (тот самый, которому вы не сдавали домашку)</p>
+
+<p>Вы можете:</p>
+
+<ul>
+  <li> Слиться со стеной и незаметно <a href="./hero.html">проскользнуть</a></li>
+  <li> Пойти не таясь как истинный <a href="./smert.html">герой</a></li>
+  <li id="est" class="secret wow"> Прикрываясь тетрадью отличника вбежать<a href="./5floor.html"> в первую попавшуюся дверь</a></li>
+</ul>
+
+<script>
+if (localStorage['tetrad'] == undefined) {
+    document.getElementById('net').style.display = 'block';
+     localStorage['tetrad'] = true;
+} else {
+    document.getElementById('est').style.display = 'block';
+}
+ </script>
+</body>
+</html>
